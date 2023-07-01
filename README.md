@@ -1,2 +1,2 @@
-# hello-dapr
-hello-dapr
+# hello-dapr-javascript
+hello-dapr-javascript
